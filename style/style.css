@@ -273,12 +273,12 @@ ul#menu li a:hover
 
 .form_settings span
 { float: left; 
-  width: 200px; 
+  width: 250px; 
   text-align: left;}
   
 .form_settings input, .form_settings textarea
 { padding: 5px; 
-  width: 350px; 
+  width: 299px; 
   font: 100% arial; 
   border: 1px solid #E5E5DB; 
   background: #FFF; 
