@@ -205,7 +205,7 @@ ul#menu li a:hover
 
 .sidebar
 { float: right;
-  width: 222px;
+  width: 250px;
   padding: 0;
   margin: 0 0 16px 0;}
 
@@ -273,7 +273,7 @@ ul#menu li a:hover
 
 .form_settings span
 { float: left; 
-  width: 250px; 
+  width: 200px; 
   text-align: left;}
   
 .form_settings input, .form_settings textarea
