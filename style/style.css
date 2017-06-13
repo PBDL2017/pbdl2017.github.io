@@ -191,7 +191,7 @@ ul#menu li a:hover
 
 #sidebar_container
 { float: right;
-  width: 224px;}
+  width: 250px;}
 
 .sidebar_top
 { width: 222px;
@@ -212,7 +212,7 @@ ul#menu li a:hover
 .sidebar_item
 { background: url(side_back.png) repeat-y;
   padding: 0 15px;
-  width: 192px;}
+  width: 250px;}
 
 .sidebar li a.selected
 { color: #444;} 
